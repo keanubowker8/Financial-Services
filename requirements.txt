@@ -1,0 +1,5 @@
+pandas==1.1.3
+numpy==1.19.2
+seaborn==0.11.0
+folium==0.12.1
+GeoPandas==0.9.0
